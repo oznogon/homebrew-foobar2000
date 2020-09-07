@@ -1,6 +1,6 @@
 cask 'foobar2000' do
-  version '2.2.5'
-  sha256 '980e2c1222614528fb528edac7c795f93aa68c965dfaae4ef112e67cc91f25a0'
+  version '2.2.6'
+  sha256 '798905677c91e385b2a65b9868f25aa1201be69855350af298db4c1b02268eb0'
 
   # url is unstable"
   url do
